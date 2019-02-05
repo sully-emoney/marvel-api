@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel", "Marvel\Marvel.csproj", "{33F84DA5-E44F-465A-B6D5-80C4AA0F43B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel.Tests", "Marvel.Tests\Marvel.Tests.csproj", "{0B68D983-E5FB-474D-8CC7-19DDCAE00DED}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel.UI", "Marvel.UI\Marvel.UI.csproj", "{CC7B2159-0238-4F5B-B59C-48A4185D8208}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{33F84DA5-E44F-465A-B6D5-80C4AA0F43B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33F84DA5-E44F-465A-B6D5-80C4AA0F43B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33F84DA5-E44F-465A-B6D5-80C4AA0F43B4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B68D983-E5FB-474D-8CC7-19DDCAE00DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B68D983-E5FB-474D-8CC7-19DDCAE00DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B68D983-E5FB-474D-8CC7-19DDCAE00DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B68D983-E5FB-474D-8CC7-19DDCAE00DED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC7B2159-0238-4F5B-B59C-48A4185D8208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC7B2159-0238-4F5B-B59C-48A4185D8208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC7B2159-0238-4F5B-B59C-48A4185D8208}.Release|Any CPU.ActiveCfg = Release|Any CPU
